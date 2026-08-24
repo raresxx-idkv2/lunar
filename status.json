@@ -1,11 +1,31 @@
 {
-  "type": "default",
-   "loaderVersion": "v7.0.1",
-   "clientVersion": "v7.0.1-ptb",
-   "Changelogs": "No changelog yet"
-   "supportedRobloxBuild": {
-       "hash": "145f189a6a974303",
-       "version": "version-145f189a6a974303",
-       "channel": "LIVE"
+  "Lunar": {
+    "Status": "patched",
+    "Version": "7.0.1",
+    "type": "default",
+    "UNC": 99,
+    "sUNC": 100,
+    "Raknet": true,
+    "Multi_Instance": true,
+    "Decompiler": true,
+    "loaderVersion": "v7.0.1",
+    "clientVersion": "v7.0.1-ptb",
+    "Discord_Invite": "https://discord.gg/XwHyDJmbpb",
+    "Changelogs": [
+      "Nothing"
+    ],
+    "supportedRobloxBuild": {
+      "hash": "145f189a6a974303",
+      "version": "version-145f189a6a974303",
+      "channel": "LIVE"
+    },
+
+
+    "Download_Options": {
+      "Download_1": {
+        "Title": "Lunar",
+        "Download_Link": "http://getlunar.today/"
+      }
     }
+  }
 }
