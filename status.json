@@ -1,1 +1,11 @@
-
+{
+  "type": "default",
+   "loaderVersion": "v7.0.1",
+   "clientVersion": "v7.0.1-ptb",
+   "Changelogs": "No changelog yet"
+   "supportedRobloxBuild": {
+       "hash": "145f189a6a974303",
+       "version": "version-145f189a6a974303",
+       "channel": "LIVE"
+    }
+}
